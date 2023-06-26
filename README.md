@@ -18,4 +18,4 @@ As stated above, main purpose is to provide simple examples for Git training dem
 Please fork this repository and then issue pull
 
 ###Copyright
-2014 Git training 
+2014 Git training.All rights reserved.
